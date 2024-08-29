@@ -9,7 +9,7 @@ Repositorio con los documentos solicitados por el curso de modelos 1 de la UdeA
   - **Programa:** Ingeniería de Sistemas
 
 - **Nombre:** Estiven Ospina González
-  - **Cédula:** 
+  - **Cédula:** 1152711784
   - **Programa:** Ingeniería de Sistemas
 
 - **Nombre:** Daniel León
