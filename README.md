@@ -13,7 +13,7 @@ Repositorio con los documentos solicitados por el curso de modelos 1 de la UdeA
   - **Programa:** Ingeniería de Sistemas
 
 - **Nombre:** Daniel León
-  - **Cédula:** 
+  - **Cédula:** 1007706684
   - **Programa:** Ingeniería de Sistemas
 
 # Video entrega 2
