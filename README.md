@@ -23,12 +23,12 @@
 
 # Tabla de Contenido
 
-- [📋 Overview](#overview)
-- [📊 Descripción del Conjunto de Datos](#descripción-del-conjunto-de-datos)
-- [📈 Evaluación](#evaluación)
-- [📁 Formato del Archivo de Envío](#formato-del-archivo-de-envío)
-- [🔖 Citation](#citation)
-- [🗂️ Estructura del Proyecto](#estructura-del-proyecto)
+- [📋 Overview](#-overview)
+- [📊 Descripción del Conjunto de Datos](#-descripción-del-conjunto-de-datos)
+- [📈 Evaluación](#-evaluación)
+- [📁 Formato del Archivo de Envío](#-formato-del-archivo-de-envío)
+- [🗂️ Estructura del Proyecto](#️-estructura-del-proyecto)
+- [🔖 Citation](#-citation)
 
 
 ## 📋 Overview
@@ -71,11 +71,6 @@ Para cada ID en el archivo `test.csv`, debemos predecir el desempeño en la vari
 
 Es crucial que el archivo de envío contenga los mismos IDs que están en el test.csv, ya que estos son los estudiantes con los que se evaluará el rendimiento de nuestro modelo.
 
-
-## 🔖 Citation
-
-- RLX. (2024). UDEA/ai4eng 20242 - Pruebas Saber Pro Colombia. Kaggle. https://kaggle.com/competitions/udea-ai4eng-20242
-
 ## 🗂️ Estructura del Proyecto
 ```bash
   Modelos1/
@@ -93,3 +88,7 @@ Es crucial que el archivo de envío contenga los mismos IDs que están en el tes
   ├── requirements.txt
   ├── README.md
 ```
+
+## 🔖 Citation
+
+- RLX. (2024). UDEA/ai4eng 20242 - Pruebas Saber Pro Colombia. Kaggle. https://kaggle.com/competitions/udea-ai4eng-20242
