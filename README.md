@@ -1,10 +1,8 @@
 # 📊 Modelos1 - Pruebas Saber Pro
 
 ![License](https://img.shields.io/github/license/RickContreras/Modelos1)
-![Coverage](https://img.shields.io/coveralls/RickContreras/Modelos1.svg)
 ![Python Version](https://img.shields.io/badge/python-3.12.5-blue.svg)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
-![Dependencies](https://img.shields.io/librariesio/github/RickContreras/Modelos1)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-v1.5.1-blue)
 ![pandas](https://img.shields.io/badge/pandas-v2.2.2-blue)
 ![numpy](https://img.shields.io/badge/numpy-v2.1.0-blue)
