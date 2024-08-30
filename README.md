@@ -1,13 +1,13 @@
 # 📊 Modelos1 - Pruebas Saber Pro
 
 ![License](https://img.shields.io/github/license/RickContreras/Modelos1)
-![Coverage](https://img.shields.io/coveralls/username/repo.svg)
-![Python Version](https://img.shields.io/badge/python-3.8-blue.svg)
+![Coverage](https://img.shields.io/coveralls/RickContreras/Modelos1.svg)
+![Python Version](https://img.shields.io/badge/python-3.12.5-blue.svg)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
 ![Dependencies](https://img.shields.io/librariesio/github/RickContreras/Modelos1)
-![scikit-learn](https://img.shields.io/pypi/v/scikit-learn)
-![pandas](https://img.shields.io/pypi/v/pandas)
-![numpy](https://img.shields.io/pypi/v/numpy)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-v1.5.1-blue)
+![pandas](https://img.shields.io/badge/pandas-v2.2.2-blue)
+![numpy](https://img.shields.io/badge/numpy-v2.1.0-blue)
 
 
 ¡Bienvenido al repositorio del curso de **Modelos 1** de la Universidad de Antioquia! 🎓 Aquí encontrarás todo lo relacionado con nuestro proyecto sobre las **Pruebas Saber Pro** en Colombia.
