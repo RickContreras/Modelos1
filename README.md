@@ -1,5 +1,9 @@
 # 📊 Modelos1 - Pruebas Saber Pro
 
+![Build Status](https://img.shields.io/travis/username/repo.svg)
+![Coverage](https://img.shields.io/coveralls/username/repo.svg)
+![Python Version](https://img.shields.io/badge/python-3.8-blue.svg)
+
 ¡Bienvenido al repositorio del curso de **Modelos 1** de la Universidad de Antioquia! 🎓 Aquí encontrarás todo lo relacionado con nuestro proyecto sobre las **Pruebas Saber Pro** en Colombia.
 
 # Tabla de Contenido
