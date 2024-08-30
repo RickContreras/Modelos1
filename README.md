@@ -2,6 +2,17 @@
 
 ¡Bienvenido al repositorio del curso de **Modelos 1** de la Universidad de Antioquia! 🎓 Aquí encontrarás todo lo relacionado con nuestro proyecto sobre las **Pruebas Saber Pro** en Colombia.
 
+# Tabla de Contenido
+- [👥 Participantes](#-participantes)
+- [📹 Videos de Entrega](#-videos-de-entrega)
+- [📋 Overview](#-overview)
+- [📊 Descripción del Conjunto de Datos](#-descripción-del-conjunto-de-datos)
+- [📈 Evaluación](#-evaluación)
+- [📁 Formato del Archivo de Envío](#-formato-del-archivo-de-envío)
+- [🗂️ Estructura del Proyecto](#️-estructura-del-proyecto)
+- [🔖 Citation](#-citation)
+
+
 ## 👥 Participantes
 
 - **Nombre:** Ricardo Contreras
@@ -20,16 +31,6 @@
 
 - **Entrega 2**: [Por montar](URL_del_video)
 - **Entrega 3**: [Por montar](URL_del_video)
-
-# Tabla de Contenido
-
-- [📋 Overview](#-overview)
-- [📊 Descripción del Conjunto de Datos](#-descripción-del-conjunto-de-datos)
-- [📈 Evaluación](#-evaluación)
-- [📁 Formato del Archivo de Envío](#-formato-del-archivo-de-envío)
-- [🗂️ Estructura del Proyecto](#️-estructura-del-proyecto)
-- [🔖 Citation](#-citation)
-
 
 ## 📋 Overview
 
