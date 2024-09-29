@@ -1,13 +1,14 @@
 {
-    "name": "ML Dev Container",
-    "image": "mcr.microsoft.com/vscode/devcontainers/python:3.12",
-    "features": {
-        "ghcr.io/devcontainers/features/python:1": {
-            "version": "3.12"
-        }
+    "name": "Modelos1 Dev Container",
+    "build": {
+        "dockerfile": "Dockerfile",
+        "context": ".."
     },
     "customizations": {
         "vscode": {
+            "settings": {
+                "terminal.integrated.shell.linux": "/bin/bash"
+            },
             "extensions": [
                 "ms-python.python",
                 "ms-toolsai.jupyter",
@@ -19,5 +20,10 @@
             ]
         }
     },
-    "postCreateCommand": "pip install -r requirements.txt"
+    "postCreateCommand": "pip install -r requirements.txt",
+    "remoteUser": "root",
+    "mounts": [
+        "source=/var/lib/docker/codespacemount/workspace/Modelos1,target=/workspace,type=bind",
+        "source=/.codespaces/agent/mount/cache,target=/vscode,type=bind"
+    ]
 }
