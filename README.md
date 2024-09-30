@@ -37,7 +37,7 @@
 
 ## 📹 Videos de Entrega
 
-- **Entrega 2**: [Por montar](URL_del_video)
+- **Entrega 2**: [https://youtu.be/Lfo4AFsae6A?si=8ObGC-U9c6mgJhSp](https://youtu.be/Lfo4AFsae6A?si=8ObGC-U9c6mgJhSp)
 - **Entrega 3**: [Por montar](URL_del_video)
 
 ## 📋 Overview
