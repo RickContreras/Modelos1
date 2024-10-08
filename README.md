@@ -1,6 +1,6 @@
 # 📊 Modelos1 - Pruebas Saber Pro
 
-![License](https://img.shields.io/github/license/RickContreras/Modelos1)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Python Version](https://img.shields.io/badge/python-3.12.5-blue.svg)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-v1.5.1-blue)
