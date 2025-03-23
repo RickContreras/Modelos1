@@ -24,16 +24,10 @@
 ## 👥 Participantes
 
 - **Nombre:** Ricardo Contreras
-  - **Cédula:** 1152224951
-  - **Programa:** Ingeniería de Sistemas
 
 - **Nombre:** Estiven Ospina González
-  - **Cédula:** 1152711784
-  - **Programa:** Ingeniería de Sistemas
 
 - **Nombre:** Daniel León
-  - **Cédula:** 1007706684
-  - **Programa:** Ingeniería de Sistemas
 
 ## 📹 Videos de Entrega
 
